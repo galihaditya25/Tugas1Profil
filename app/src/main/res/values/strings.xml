@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bio Galih Aditya</string>
+    <string name="biodesc">
+        Galih adalah seorang mahasiswa ITN Malang, ia mengambil jurusan informatika S1.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vestibulum convallis augue id consectetur. Proin sed nulla velit.
+    </string>
+</resources>
